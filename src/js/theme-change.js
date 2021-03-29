@@ -27,5 +27,3 @@ function themeswitchChange(e) {
 function addClass(nameTheme) {
   document.body.className = nameTheme;
 }
-
-export default new Theme();
